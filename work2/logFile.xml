@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-02T20:16:06.486757200Z</date>
+  <millis>1688328966486</millis>
+  <nanos>757200</nanos>
+  <sequence>0</sequence>
+  <logger>work2.work2</logger>
+  <level>INFO</level>
+  <class>work2.work2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Исходный массив</message>
+</record>
+</log>
